@@ -6,6 +6,7 @@ For anyone reading this(other than myself), I have realized that now that I am s
 The topics have been listed in the "TODO" section.
 
 ### TODO:
+- [ ] Github
 - [ ] Programming Languages
   - [ ] Typed & Un-Typed
   - [ ] Primitive Types
