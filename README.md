@@ -9,7 +9,6 @@ The topics have been listed in the "TODO" section. When they are finished they w
 - [ ] Small Program to Auto generate a full table of contents on file structure, auto generate toc for each directory
 - [ ] Firefox Developer Edition
 - [ ] Docker
-- [ ] Sail
 - [ ] Pest PHP Testing
 
 ### TODO (Full List):
