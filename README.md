@@ -5,7 +5,14 @@ For anyone reading this(other than myself), I have realized that now that I am s
 
 The topics have been listed in the "TODO" section. When they are finished they will link to the topic, and added to the [Table of Contents](Table-Of-Contents.md).
 
-### TODO:
+### TODO (Upcoming):
+- [ ] Small Program to Auto generate a full table of contents on file structure, auto generate toc for each directory
+- [ ] Firefox Developer Edition
+- [ ] Docker
+- [ ] Sail
+- [ ] Pest PHP Testing
+
+### TODO (Full List):
 - [ ] Github
 - [ ] Programming Languages
   - [ ] Typed & Un-Typed
